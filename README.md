@@ -16,36 +16,41 @@ Columns: 13
 
 From April 2021 to March 2022, 56% of Cyclistic riders are annual members.
 
-
-![image](https://user-images.githubusercontent.com/103950278/179022772-164b2cfb-b15b-4c70-a9fe-b43b0932ad14.png)
-
-
-Classic bikes are the most popular among the riders. Of the classic bikes, 61.3% are annual and 38.6% are casual. The second most popular bike are the electric bikes.
+![image](https://user-images.githubusercontent.com/103950278/179100523-70ee7cf3-63bd-4814-aa6b-17784dc5c1bb.png)
 
 
-![image](https://user-images.githubusercontent.com/103950278/179022816-9d81cd7d-9e09-4584-b4ac-bdd70f6495f5.png)
+Classic bikes are the most popular among the riders. 
+
+![image](https://user-images.githubusercontent.com/103950278/179100712-fb863f04-4743-4866-bed3-3443563359f6.png)
+
 
 Casual members spend twice the amount of time riding than annual members and ride the longest on Sundays.
 
-![image](https://user-images.githubusercontent.com/103950278/179022854-1d9787ec-dec1-4bb3-9769-953fdec0b4e2.png)
+![image](https://user-images.githubusercontent.com/103950278/179100739-bd4c0a1e-ebcd-4808-a49b-22efa88b42eb.png)
+
 
 Casual members ride longer distances than annual members. The longer distances seem to pick up on the weekend and slow down in the beginning of the week.
 
-![image](https://user-images.githubusercontent.com/103950278/179022871-a5486082-6b3b-4544-b2a8-e2c710b3c952.png)
+![image](https://user-images.githubusercontent.com/103950278/179100777-74438278-0998-414f-8a67-019b7730f9c4.png)
+
 
 Casual members ride more in the afternoon. Peak time is between 10AM-3PM.
 
-![image](https://user-images.githubusercontent.com/103950278/179022892-8ecfdd8c-bdca-4eb4-857e-4ea44715b463.png)
+![image](https://user-images.githubusercontent.com/103950278/179100811-15f94b32-1589-48bc-8705-598d3e1aec5a.png)
+
 
 Casual members ride longer distances in the early morning and late afternoon (10AM-5PM).  Annual members ride longer distances in the morning.
 
-![image](https://user-images.githubusercontent.com/103950278/179022921-71253597-fe3e-4f46-aa56-646a4aefd547.png)
+![image](https://user-images.githubusercontent.com/103950278/179100833-7ae594ef-c168-492f-9593-5ccd28948d62.png)
+
 
 Both annual and casual members ride more and travel further in the warmer months beginning in April and ending in August. 
 
-![image](https://user-images.githubusercontent.com/103950278/179022941-7d702f10-1b68-496f-ab3d-bcfabfeaa1cf.png)
+![image](https://user-images.githubusercontent.com/103950278/179100866-f901e447-68c5-4dfb-9574-7f7d77110012.png)
 
-![image](https://user-images.githubusercontent.com/103950278/179022963-97c3be60-87e0-463b-8716-f116fae86138.png)
+![image](https://user-images.githubusercontent.com/103950278/179100885-7387107e-0b7c-4be5-8dbe-a5dc9635ae08.png)
+
+
 
 <>
 Receommended Marketing Strategies to convert casual members to annual members:
